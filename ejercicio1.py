@@ -9,3 +9,4 @@ if(angulo1+angulo2==180):
     print("Son suplementarios")
 else:
     print("No son suplementarios")
+print("terminando...")
